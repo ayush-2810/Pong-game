@@ -2,7 +2,7 @@
 
 This is a pong game which can be played between two players.  
 
-Player 1 movement :  
+Player;'s 1 movement :  
 
 Keys   | Direction 
 |:---:|:---:|
