@@ -1,6 +1,6 @@
 # Pong-game  
 
-In this game you have to hit the ball with your pong to win the game.  
+In this game, you have to hit the ball with your pong to win the game.  
 If ball touches the wall beside your pong opponent will get a point.  
 Player with more points will win the game.  
 
