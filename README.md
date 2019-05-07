@@ -2,7 +2,7 @@
 
 In this game, you have to hit the ball with your pong to win the game.  
 If ball touches the wall beside your pong opponent will get a point.  
-Player with more points will win the game.  
+Player with more **points** will win the game.  
 
 Player's 1 movement : 
 
